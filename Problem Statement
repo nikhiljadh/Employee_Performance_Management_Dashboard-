@@ -1,0 +1,14 @@
+Problem Statement:
+
+In today's competitive business environment, understanding employee attrition and satisfaction is critical for maintaining a productive workforce. Our company has experienced challenges with employee retention, particularly in key departments and among certain demographics. To address this, we have developed an Employee Data Visualization Dashboard that provides a comprehensive view of our workforce metrics.
+
+The dashboard aims to analyze and visualize critical HR data, including employee count, attrition count, attrition rate, active employees, and the average age of employees. It provides detailed insights into department-wise and education-wise attrition, helping to identify areas with the highest turnover rates. Additionally, the dashboard segments attrition data by gender and age group, offering a deeper understanding of the demographics most at risk of leaving the company.
+
+Furthermore, the dashboard incorporates a job satisfaction rating by role, which helps in pinpointing job roles that may require targeted interventions to improve satisfaction and reduce turnover.
+
+The key objectives of this dashboard are:
+
+To identify trends and patterns in employee attrition across different departments, age groups, education levels, and job roles.
+To provide HR and management with actionable insights to enhance employee retention strategies.
+To monitor job satisfaction levels and correlate them with attrition rates to understand potential causes of employee turnover.
+By leveraging this dashboard, we aim to improve our workforce planning and retention strategies, ultimately leading to a more engaged and stable workforce.
